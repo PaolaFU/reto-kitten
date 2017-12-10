@@ -1,2 +1,16 @@
+.fondo{
+    background-size: cover; 
+    background-position: center;
+    
+    
+}
+.cat{
+    padding-top: 24.5%;
+    width: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+    
 
+}
 
